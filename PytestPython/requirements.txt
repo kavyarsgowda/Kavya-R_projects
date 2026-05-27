@@ -1,0 +1,12 @@
+pytest
+pytest-xdist
+pytest-html
+pytest-bdd
+pytest-playwright
+playwright
+requests
+
+# Optional (uncomment if needed)
+# allure-pytest
+# pyyaml
+
